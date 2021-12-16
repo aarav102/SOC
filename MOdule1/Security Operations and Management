@@ -5,3 +5,26 @@ security Mangement activites are:
 2)security Prevention: Means pentesting to prevent any attack beforehand or find any vulnerability before any attack via red team to help security.
 3)compliance: Means organisation is utilising or following proper compliance like(PCI-DSS) for their portals any everywhere.
 4)security operations : MEans detection, logging, monitoring
+
+security operations are the done by soc
+activities
+1)security monitoring:analysing logs 
+2)security incident management:real time incident management
+3)vulnerability management:finding ,mitigation of vulnerability
+4)security device management:updating devices, infrasturcture
+5)network flow management: analysing network packet for abnormal activities.
+
+
+
+SOC also called as 
+1)security defense centre SDC
+2)SAC security analytics centre
+3)NSOC network security operation centre
+
+
+
+SOC capabilities
+1)situation awareness: soc knows what is happening in the organisation by looking at data streams collected from the security devices like IDS/IPS
+2)Threat control and prevention: SOC will not only imposed known method to protect but also use external sources to keep updated
+3)Forensics:uses log to find the root cause of attack 
+4)Audit and compliance support:not only retrieve logs but do them in a pmanner set as per compliance to make audit repor.
